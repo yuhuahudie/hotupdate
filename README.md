@@ -1,0 +1,2 @@
+# hotupdate
+cocos creator hotupdate
